@@ -1,6 +1,6 @@
-# Intel® HTML5 Samples License Terms and Conditions
+# Hijr Intercative License Terms and Conditions
 
-Copyright © 2012-2014, Intel Corporation. All rights reserved.
+Copyright © 2014, Hijr Intercative. All rights reserved.
 
 Redistribution and use in source and binary forms, with or without
 modification, are permitted provided that the following conditions are
